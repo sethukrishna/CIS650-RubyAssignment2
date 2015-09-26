@@ -151,14 +151,14 @@ class ReceipeManager
     
     obj1 = ReceipeManager.new('Briyani', 'Indian','{:chicken => 1,:rice => 2,:spices =>2,:blah =>3}','cook and eat')
     
-    #displayReceipes
-    #obj1.insert_recepie
-    #displayReceipes
-    #obj1.has_ingredient?
-    #obj1.how_many_ingredients
-    #obj1.json_read
-    #obj1.deletereceipe
-    #has_many_ingredients
+    displayReceipes
+    obj1.insert_recepie
+    displayReceipes
+    obj1.has_ingredient?
+    obj1.how_many_ingredients
+    obj1.json_read
+    obj1.deletereceipe
+    has_many_ingredients
 
     
     
